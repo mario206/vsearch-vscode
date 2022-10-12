@@ -1,0 +1,7 @@
+var s = "".tostring()
+
+var s = "".`to_string()`
+
+var `to_string` = ""
+
+var abc = "";// string to

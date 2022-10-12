@@ -27,7 +27,7 @@ export function activate(context: vscode.ExtensionContext) {
 	context.subscriptions.push(commands.registerCommand('vsearch.searchCmd', async () => {
 		const input = await window.showInputBox({
 			title:"VSearch",
-			placeHolder : "to string()",
+			placeHolder : "to string",
 			value:s_last_regex,
 		});
 		if (!input) {
