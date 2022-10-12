@@ -2,7 +2,7 @@
   "name": "vsearch",
 	"displayName": "vsearch",
 	"description": "fuzzy search",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher":"mario",
 	"engines": {
 		"vscode": "^1.72.0"

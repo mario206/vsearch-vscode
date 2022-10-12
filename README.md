@@ -14,9 +14,14 @@ vsearch.searchCmd (via Ctrl + Shift + P)
 
 
 ## demo
+![](demo.gif)
 ![](demo.png)
 
 
+## publish
 
+npm install -g vsce
+
+vsce package
 
 **Enjoy!**
