@@ -12,6 +12,10 @@
 	"activationEvents": [
         "onCommand:vsearch.searchCmd"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mario206/vsearch"
+	},
 	"main": "./dist/extension.js",
 	"contributes": {
 		"commands": [
